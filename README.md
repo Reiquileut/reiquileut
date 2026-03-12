@@ -1,7 +1,7 @@
 # Thiago Sotero Do Prado
 
 **Especialista em RPA, Inteligência Artificial e Desenvolvimento Backend**  
-São Paulo — Brasil · [Portfólio (GitHub Pages)](https://reiquileut.github.io/portifolio/) · [GitHub @reiquileut](https://github.com/reiquileut)
+São Paulo — Brasil · [Portfólio (GitHub Pages)](https://reiquileut.github.io/portfolio/) · [GitHub @reiquileut](https://github.com/reiquileut)
 
 ---
 
